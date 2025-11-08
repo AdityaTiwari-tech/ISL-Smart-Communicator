@@ -1,5 +1,18 @@
-# ISL-Smart-Communicator
-# ISL Smart Communicator
+## Project Name: ISL SMART COMMUNICATOR APP
+Group members: 
+Name: Aditya Tiwari RollNo.: 202210101150070
+Name: Aadi Chandra RollNo.: 202210101150082
+Name: Nandini Verma RollNo.: 202210101150063
+
+Program: B.Tech CSE(DS+AI)
+Group: 73
+
+Submitted To: Mr. Angshuraj Gharami
+
+Course Name: Deep Learning
+Course Code: UCS 7802
+
+
 
 Lightweight Indian Sign Language (ISL) recognition and demo application.  
 Uses MediaPipe for hand/keypoint detection and a TensorFlow model for classifying signs (A–Z, 0–9, delete, space).
