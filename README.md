@@ -5,12 +5,12 @@ Name: Aadi Chandra RollNo.: 202210101150082
 Name: Nandini Verma RollNo.: 202210101150063
 
 Program: B.Tech CSE(DS+AI)
-Group: 73
+Group: 83
 
-Submitted To: Mr. Angshuraj Gharami
+Submitted To: Mrs. Anjali Awasthi
 
-Course Name: Deep Learning
-Course Code: UCS 7802
+Course Name: Project III
+Course Code: UCS 8702PJ
 
 
 
